@@ -25,10 +25,10 @@ $[year_var, 2018]
 % Start the next slide
 ---
 % This is a smaller heading
-# Table of Contents
+## Table of Contents
 
 % The expression '{TOC}' is reserved for the automatically generated table of contents
-% It accounts for headings until level two (##) and packs them in the Table of contents
+% It accounts for headings until level two (##) and packs them in the Table of contents (only headings that are placed after the TOC declaration)
 % You can declare additional headings that are not included in the TOC by adding a '!' and a space in the front of headings 
 {TOC}
 
